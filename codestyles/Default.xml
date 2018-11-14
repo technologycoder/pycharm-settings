@@ -1,6 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="160" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Python>
     <option name="BLANK_LINES_BEFORE_FIRST_METHOD" value="1" />
     <option name="DICT_ALIGNMENT" value="2" />
